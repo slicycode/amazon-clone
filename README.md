@@ -14,7 +14,7 @@ For this v1, you can test out :
 
 ## Usage :
 
-You can access the website directly at this link : 
+You can access the project directly at this link : 
 [amazon-clone](https://clone-74d26.web.app/)
 
 ### OR
