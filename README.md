@@ -8,7 +8,7 @@ I made this project to test and learn from scratch a fullstack project only with
 For this v1, you can test out :
 * Create an account through the Sign In page ( *top right* )
 * Sign Out just by clicking again
-* Add items to the basket 
+* Add item(s) to the basket 
 * Access to the checkout page ( *top right* )
 * Remove item(s) from the basket ( *which will automatically update the subtotal count* )
 
