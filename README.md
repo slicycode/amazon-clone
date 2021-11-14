@@ -5,7 +5,7 @@ I made this project to test and learn from scratch a fullstack project only with
 
 ![2021-11-01 21_58_41-React App - Brave](https://user-images.githubusercontent.com/60575576/139741791-71c44492-0b86-4299-8e2c-f57258d7d2ca.png)
 ---
-For this v1, you can :
+In this v1, you can :
 * Create an account through the Sign In page ( *top right* )
 * Sign Out just by clicking again
 * Add item(s) to the basket 
